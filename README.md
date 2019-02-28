@@ -1,7 +1,7 @@
 # Tank-Game-AI-Tournament
 COMP 1501 Tank Game AI Tournament
 
-* The 16 players who beat all the 7 level of NPC AI, then entered the knock-out tournament for 4 rounds.
+* The 16 players who beat all the 7 levels of NPC AI, then entered the knock-out tournament for 4 rounds.
 * Finally got the Top 4/ 60+ 
 
 Videos:
