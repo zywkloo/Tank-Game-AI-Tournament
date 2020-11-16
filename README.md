@@ -5,7 +5,7 @@ COMP 1501 Tank Game AI Tournament
 
           $ python Glad_AI_tors.py theComAINameWithoutDotPY YiweiDriver_source.py
     
-* Only 16 players who beat all 7 levels of NPC AI, were qualified to participate the knock-out tournament.
+* Only 16 players who beat all 7 levels of NPC AI, were qualified to participate the elimination tournament.
 * Final Ranking: Top 4/ 60+ 
 
 Videos:
